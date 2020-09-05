@@ -3368,6 +3368,7 @@ input, select, textarea {
 	.selected
 		{
 		  background-color: #efb835;
+		  color: #2e3842;
 		}
 
 		#menu ul {
