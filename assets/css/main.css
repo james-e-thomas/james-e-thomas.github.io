@@ -3365,6 +3365,11 @@ input, select, textarea {
 		z-index: 10002;
 	}
 
+	.selected
+		{
+		  background-color: #efb835;
+		}
+
 		#menu ul {
 			list-style: none;
 			padding: 0;
