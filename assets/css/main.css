@@ -109,7 +109,6 @@ input, select, textarea {
 		font-family: "Segoe UI", Helvetica, sans-serif;
 		font-size: 15pt;
 		font-weight: 400;
-		letter-spacing: 0.075em;
 		line-height: 1.65em;
 	}
 
@@ -133,7 +132,6 @@ input, select, textarea {
 
 			body, input, select, textarea {
 				font-size: 11pt;
-				letter-spacing: 0.0375em;
 			}
 
 		}
@@ -170,7 +168,6 @@ input, select, textarea {
 	h1, h2, h3, h4, h5, h6 {
 		color: #fff;
 		font-weight: 800;
-		letter-spacing: 0.225em;
 		line-height: 1em;
 		margin: 0 0 1em 0;
 		text-transform: uppercase;
