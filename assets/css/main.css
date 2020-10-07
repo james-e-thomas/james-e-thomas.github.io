@@ -169,7 +169,7 @@ input, select, textarea {
 		color: #fff;
 		font-weight: 800;
 		line-height: 1em;
-		letter-spacing: 0.125em;
+		letter-spacing: 0em;
 		margin: 0 0 1em 0;
 		text-transform: uppercase;
 	}
@@ -3630,7 +3630,7 @@ input, select, textarea {
 
 		#banner p {
 			text-transform: uppercase;
-			letter-spacing: 0.125em;
+			letter-spacing: 0em;
 		}
 
 			#banner p a {
