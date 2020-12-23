@@ -3696,7 +3696,7 @@ input, select, textarea {
 						}
 
 							#header nav > ul > li > a.menuToggle:after {
-								background-image: url("images/bars.svg");
+								background-image: url("images/bars.png");
 								background-position: right center;
 								background-repeat: no-repeat;
 								content: '';
@@ -3850,7 +3850,7 @@ input, select, textarea {
 		}
 
 			#banner .more:after {
-				background-image: url("images/arrow.svg");
+				background-image: url("images/arrow.png");
 				background-position: center;
 				background-repeat: no-repeat;
 				background-size: contain;
