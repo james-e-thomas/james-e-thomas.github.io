@@ -2572,52 +2572,52 @@ input, select, textarea {
 
 			.features li:nth-child(1) {
 				/*background-color: rgba(0, 0, 0, 0.035);*/
-				background-color: rgba(0, 0, 0, 0.02);
+				background-color: rgba(0, 0, 0, 0.03);
 			}
 
 			.features li:nth-child(2) {
 				/*background-color: rgba(0, 0, 0, 0.07);*/
-				background-color: rgba(0, 0, 0, 0.03);
+				background-color: rgba(0, 0, 0, 0.04);
 			}
 
 			.features li:nth-child(3) {
 				/*background-color: rgba(0, 0, 0, 0.105);*/
-				background-color: rgba(0, 0, 0, 0.04);
+				background-color: rgba(0, 0, 0, 0.05);
 			}
 
 			.features li:nth-child(4) {
 				/*background-color: rgba(0, 0, 0, 0.14);*/
-				background-color: rgba(0, 0, 0, 0.05);
+				background-color: rgba(0, 0, 0, 0.06);
 			}
 
 			.features li:nth-child(5) {
 				/*background-color: rgba(0, 0, 0, 0.175);*/
-				background-color: rgba(0, 0, 0, 0.06);
+				background-color: rgba(0, 0, 0, 0.03);
 			}
 
 			.features li:nth-child(6) {
 				/*background-color: rgba(0, 0, 0, 0.21);*/
-				background-color: rgba(0, 0, 0, 0.07);
+				background-color: rgba(0, 0, 0, 0.04);
 			}
 
 			.features li:nth-child(7) {
 				/*background-color: rgba(0, 0, 0, 0.245);*/
-				background-color: rgba(0, 0, 0, 0.08);
+				background-color: rgba(0, 0, 0, 0.05);
 			}
 
 			.features li:nth-child(8) {
 				/*background-color: rgba(0, 0, 0, 0.28);*/
-				background-color: rgba(0, 0, 0, 0.09);
+				background-color: rgba(0, 0, 0, 0.06);
 			}
 
 			.features li:nth-child(9) {
 				/*background-color: rgba(0, 0, 0, 0.315);*/
-				background-color: rgba(0, 0, 0, 0.1);
+				background-color: rgba(0, 0, 0, 0.3);
 			}
 
 			.features li:nth-child(10) {
 				/*background-color: rgba(0, 0, 0, 0.35);*/
-				background-color: rgba(0, 0, 0, 0.11);
+				background-color: rgba(0, 0, 0, 0.4);
 			}
 
 			.features li:before {
