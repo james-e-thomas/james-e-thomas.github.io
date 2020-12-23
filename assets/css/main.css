@@ -3308,6 +3308,10 @@ input, select, textarea {
 
 			}
 
+		.wrapper.style6 {
+			background-color: #f1ffff;
+		}
+
 		@media screen and (max-width: 980px) {
 
 			.wrapper {
