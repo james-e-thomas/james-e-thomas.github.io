@@ -2082,11 +2082,13 @@ input, select, textarea {
 			}
 
 		.icon.style1 {
-			color: #00ffcc;
+			/*color: #00ffcc;*/
+			color: #21b2a6;
 		}
 
 		.icon.style2 {
-			color: #00f0ff;
+			/*color: #00f0ff;*/
+			color: #505393;
 		}
 
 		.icon.style3 {
@@ -2610,7 +2612,8 @@ input, select, textarea {
 
 			.features li:before {
 				display: block;
-				color: #00ffcc;
+				/*color: #00ffcc;*/
+				color: #21b2a6;
 				position: absolute;
 				left: 1.75em;
 				top: 2.75em;
