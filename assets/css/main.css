@@ -3636,7 +3636,8 @@ input, select, textarea {
 		}
 
 			#banner p a {
-				color: inherit;
+				/*color: inherit;*/
+				color: #2e3842;
 			}
 
 		#banner .more {
@@ -3654,7 +3655,8 @@ input, select, textarea {
 			transform: translateY(0);
 			border: none;
 			bottom: 0;
-			color: inherit;
+			/*color: inherit;*/
+			color: #2e3842;
 			font-size: 0.8em;
 			height: 8.5em;
 			left: 50%;
