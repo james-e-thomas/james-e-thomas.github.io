@@ -1,0 +1,16 @@
+{
+  "name": "fplGraphed",
+  "short_name": "fplGraphed",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#2e3842",
+  "description": "Visualise your FPL mini-leagues",
+  "theme_color": "#2e3842",
+  "icons": [
+    {
+      "src": "./images/app_logo2.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
