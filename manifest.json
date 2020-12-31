@@ -9,7 +9,7 @@
   "icons": [
     {
       "src": "images/app_logo2.png",
-      "sizes": "512x512",
+      "sizes": "120x120 180x180 192x192 512x512",
       "type": "image/png"
     }
   ]
