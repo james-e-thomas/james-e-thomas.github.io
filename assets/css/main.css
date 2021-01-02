@@ -4206,7 +4206,7 @@ input, select, textarea {
 .frame {
   display: block;
   width: 100vw;
-  height: calc(100vh - 3em);
+  height: calc(100vh - 4.5em);
   max-width: 100%;
   margin: 0;
   padding: 0;
