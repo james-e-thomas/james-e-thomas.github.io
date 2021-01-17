@@ -1,7 +1,7 @@
 {
   "name": "fplGraphed",
   "short_name": "fplGraphed",
-  "start_url": "index.html",
+  "start_url": "dashboard.html",
   "display": "standalone",
   "background_color": "#2e3842",
   "description": "Visualise your FPL mini-leagues",
