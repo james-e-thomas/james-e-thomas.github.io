@@ -20,8 +20,12 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
-		<script data-ad-client="ca-pub-1671456674907335" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 		<link rel="manifest" href="manifest.json">
+		<script>
+			if ('serviceWorker' in navigator) {
+			    navigator.serviceWorker.register('sw.js');
+			};
+		</script>
 		<link rel="apple-touch-icon" href="images/icon.png">
 	</head>
 	<body class="landing is-preload">
