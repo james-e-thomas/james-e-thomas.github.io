@@ -1,7 +1,5 @@
 @import url(fontawesome-all.min.css);
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic");
 @import url("https://fonts.googleapis.com/css?family=Roboto:400,400italic,600,600italic,800,800italic");
-@import url("https://db.onlinewebfonts.com/c/876e42901e002174aa13adc0ccd63a50?family=San+Francisco+Display");
 
 /*
 	Spectral by HTML5 UP
@@ -107,7 +105,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #fff;
-		font-family: "Helvetica Neue", Helvetica, sans-serif;
+		font-family: Roboto, Helvetica, sans-serif;
 		font-size: 15pt;
 		font-weight: 400;
 		line-height: 1.65em;
